@@ -1,0 +1,59 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jacquard+12&display=swap');
+/*this is comment*/
+/* this is comment */
+@font-face {
+    font-family:Kanit-Italic ;
+    src: url(Kanit-Italic.ttf);
+}
+
+body{
+    background-color: bisque;
+    background-color: #fff;
+
+}
+
+
+h1{
+    font-family: Kanit-Italic;
+    background-color: aquamarine;
+  margin:auto;
+width: 60%;}
+.name{
+    font-family: cursive,'Times New Roman';
+    font-weight: 900;
+    font-family:"Jacquard 12" ;
+    border-style:double ;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 10px;
+   
+    
+}
+.img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid red;
+
+}
+.image{
+    float:left;
+    float: right;
+}
+#name{
+    text-shadow: 10px 10px 6px black;
+    margin: 10px 10px 10px 0;
+    margin-left: 30px;
+    width: 250px;
+    height: 250px;
+    color: aliceblue;
+    overflow: scroll;
+    padding-left: 10px ;
+    padding: 30px ;
+    border-style:double ;
+    border-width: 10px;
+    border-color: black;
+    border-radius: 10px;
+
+}
